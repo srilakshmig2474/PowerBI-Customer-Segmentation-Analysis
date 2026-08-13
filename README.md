@@ -225,7 +225,7 @@ PowerBI-Customer-Segmentation-Analysis/
 
 ### **Guttula Sri Lakshmi**
 
-**Aspiring Data Analyst | Power BI | SQL | Excel | Data Visualization**
+**AIML Student | Aspiring Data Analyst | Python | Power BI | SQL | Excel | Data Visualization**
 
 Passionate about transforming raw data into meaningful insights and building interactive dashboards that support better business decisions.
 
